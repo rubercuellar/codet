@@ -19,7 +19,7 @@ exports.config = {
   },
   // Define the directory where test files are located
   // Test files should end with _test.js
-  tests: "./*_test.js",
+  tests: "./tests/*_test.js",
   // Define the output directory for reports, screenshots, etc.
   output: "./output",
   // Configure test features and scenarios
